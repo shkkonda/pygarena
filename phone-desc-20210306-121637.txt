@@ -1,0 +1,1 @@
+["Oppo Find X2 Lite", "Motorola One 5G", "Oppo Reno4 5G", "Meizu 17", "Nokia 7.3", "Oppo Find X3 Lite", "OnePlus 8 5G (T", "Oppo Reno 5G", "OnePlus 8 5G UW (Verizon)", "Oppo Reno3 Pro 5G", "Oppo Reno4 SE", "Oppo A92s", "Motorola One 5G UW", "Oppo Ace2", "Oppo K7x", "Oppo A72 5G", "Oppo K7 5G", "Oppo Reno5 Lite", "Orange Neva jet 5G", "Oppo Reno3 Youth"]
